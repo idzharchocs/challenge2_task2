@@ -1,0 +1,182 @@
+body {
+  
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* start css content */
+.navbar-nav {
+  gap: 16px;
+}
+.btn {
+  background-color: rgb(146, 243, 1);
+}
+
+#content {
+  background-color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 30px;
+  display: flexbox;
+  height: 500px;
+}
+
+.isi-content {
+  font-weight: bold;
+}
+.container-flex {
+  display: flex;
+  margin-top: 3rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.right-content {
+  display: flex;
+  justify-content: space-between;
+}
+.left-content {
+  flex: 1;
+  margin: 4rem;
+  margin-top: 2, 3rem;
+  padding: 1rem;
+  padding-top: 3rem;
+}
+.left-content h1 span {
+}
+.left-content h1 {
+  font-weight: bold;
+}
+.left-content p {
+  margin-top: 16px;
+}
+.left-content p span {
+  display: flex;
+  grid-row: span;
+}
+h1 {
+  margin-bottom: 300px;
+}
+/* end css content */
+
+/* start service */
+#service {
+  padding: 4rem;
+  justify-content: center;
+  align-items: center;
+  margin-right: 3rem;
+  margin-left: 204px;
+}
+.img-fluid {
+  align-items: start;
+  text-align: end;
+}
+.deskripsi {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 3rem;
+  padding: 2rem;
+}
+.list-service {
+  align-items: start;
+  text-align: left;
+}
+.item1 {
+  margin: 20px;
+  padding-left: 20px;
+}
+.item2 {
+  margin: 20px;
+  padding-left: 20px;
+}
+.item3 {
+  margin: 20px;
+  padding-left: 20px;
+}
+.item4 {
+  margin: 20px;
+  padding-left: 20px;
+}
+.item5 {
+  margin: 20px;
+  padding-left: 20px;
+}
+.deskripsi h1 {
+  font-weight: bold;
+}
+/* card */
+.card img {
+  margin: 20px;
+  margin-left: 20px;
+  width: 40px;
+  height: 40px;
+}
+#card {
+  margin-left: 130px;
+}
+.testimoni {
+  padding: 30px;
+  margin-top: 20px;
+  margin-left: 300px;
+  width: 832px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+}
+#gambar {
+  padding-right: 10px;
+  margin-top: 30px;
+}
+#sewa {
+  justify-content: center;
+  padding: 40px;
+  height: 326px;
+  margin: 100px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(13, 40, 166, 1);
+}
+#isi-sewa {
+  display: flexbox;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+#isi-sewa p {
+  margin: 10px;
+  padding: 10px;
+}
+#FAQ {
+  gap: 100px;
+  width: 100%;
+}
+.FAQ-kiri {
+  padding: 10px;
+  margin: 10px;
+  margin-right: 50px;
+  margin-left: 100px;
+}
+.FAQ-kiri h2 {
+  font-weight: bold;
+  width: max-content;
+}
+.FAQ-kanan {
+  width: 100%;
+  margin-right: 100px;
+}
+.FAQ-kiri h2 {
+  text-align: right;
+}
+#footer {
+  margin-right: 1.5rem;
+  margin-top: 5rem;
+  display: flex;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+#service-2 {
+  font-weight: bold;
+}
+#service-1 {
+  margin: 10px;
+  margin-left: 20px;
+}
+@media all  {
+  
+}
